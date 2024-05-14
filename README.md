@@ -1,7 +1,7 @@
-#FlexFit: Your Ultimate Fitness Companion
+# FlexFit: Your Ultimate Fitness Companion
 FlexFit is your all-in-one solution for managing your fitness journey with ease. Whether you're dedicated to gym workouts, exhilarating Zumba classes, or intense boxing sessions, FlexFit empowers you to reach your fitness goals efficiently. With its intuitive interface and powerful features, FlexFit revolutionizes the way you approach fitness.
 
-##Key Features:
+## Key Features:
 1. Subscription Management:
 Easily purchase gym, Zumba, or boxing subscriptions directly through FlexFit. Choose from a range of subscription plans tailored to your fitness needs and schedule.
 
